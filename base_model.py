@@ -1,0 +1,1 @@
+#(Optional) Defines a base class for SQLAlchemy models.

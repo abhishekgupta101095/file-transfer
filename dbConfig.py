@@ -1,0 +1,7 @@
+postgresHost="airflowwithspark-postgres-1"
+postgresPort="5432"
+postgresDB="airflow"
+postgresConnection=f"jdbc:postgresql://{postgresHost}:{postgresPort}/{postgresDB}"
+postgresDriver="org.postgresql.Driver"
+postgresUser="airflow"
+postgresPassword="airflow"
